@@ -1,3 +1,5 @@
-- name => @quocdung/tea-xyz-quest 
-- author => @quocdung
-- repository => https://github.com/QuocDung201/tea-xyz-quest.git
+{
+    "name": "@quocdung/tea-xyz-quest",
+    "author":"@quocdung",
+    "repository":"https://github.com/QuocDung201/tea-xyz-quest"
+}
